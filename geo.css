@@ -1,0 +1,44 @@
+
+body,html,header{
+    height: 100%;
+    margin: 0px;
+        /* The image used */
+        background-image:  url("./image/night2.jpg");
+        /* background-image: radial-gradient(rgb(90, 85, 85) 5%, rgb(112, 112, 107) 15%, rgb(72, 75, 72) 60%); */
+  
+        /* Full height */
+        height: 100%; 
+      
+        /* Center and scale the image nicely */
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        overflow: hidden;
+      
+  } 
+
+
+   .container{
+    max-width:	100%;
+
+  } 
+  .box{
+box-sizing: border-box;
+    width: 350px;
+    height:300px;
+    border: 5px solid rgba(7, 0, 0, 0.792);
+    padding: 50px;
+    margin-top: 180px;
+    margin-left:450px;
+   background-color: #000;
+    color: #fff;
+    opacity: 0.5;
+    border-radius:10px;
+    /* position:fixed; */
+    
+ 
+  }
+  .row{
+    display: flex;
+  }

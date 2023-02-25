@@ -1,0 +1,8 @@
+https://api.openweathermap.org/data/2.5/weather?lat=17.3654535&lon=78.5066112&appid=c9bed26ad2fd5be719ff60b426edd5aa
+
+
+
+https://api.openweathermap.org/data/2.5/forecast/daily?lat=17.3654535&lon=78.5066112&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29
+
+
+//https://api.openweathermap.org/data/2.5/forecast/daily?lat=17.3654535&lon=78.5066112&mode=json&units=metric&cnt=5&appid=c9bed26ad2fd5be719ff60b426edd5aa
