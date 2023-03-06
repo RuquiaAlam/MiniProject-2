@@ -28,7 +28,7 @@
     
 
 
-}
+// }
 let selectCity = document.querySelector('#selectCity');
 let cityId = document.querySelector('#cityId');
 function onSelectCity(event){
